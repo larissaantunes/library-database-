@@ -15,7 +15,7 @@ This project demonstrates a relational SQL database for library management.
 - SQL Querying and Data Management
 
 ## Database Diagram
-(Insert diagram image here if you create one using dbdiagram.io or draw.io)
+![Library Database Diagram](database-diagram.png)
 
 ## How to run
 1. Run schema.sql to create the database
