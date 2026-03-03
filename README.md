@@ -1,6 +1,3 @@
-# library-database-
-SQL relational database project for library management, including table creation, relationships, data insertion and complex queries.
-
 # Library Database SQL Project
 
 This project demonstrates a relational SQL database for library management.
