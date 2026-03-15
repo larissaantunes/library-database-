@@ -21,8 +21,9 @@ This project demonstrates a relational SQL database for library management.
 ## How to run
 1. Run schema.sql to create the database
 2. Run tables.sql to create tables with relationships
-3. Run insert_data.sql to add sample data
-4. Run queries.sql to test queries and complex JOIN operations
+3. Run AlterTable.sql to alter and drop table
+4. Run insert_data.sql to add sample data
+5. Run queries.sql to test queries and complex JOIN operations
 
 ## Skills Demonstrated
 - Database modeling and normalization
