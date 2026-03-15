@@ -5,6 +5,7 @@ This project demonstrates a relational SQL database for library management.
 ## Features
 - Database creation (schema.sql)
 - Table creation with *primary and foreign keys* (tables.sql)
+- Table modification *alter table and drop table (AlterTable.sql)
 - Data insertion (insert_data.sql)
 - Queries and *JOIN operations* (queries.sql)
 - *Complex queries* demonstrating table relationships, aggregation, and analysis
